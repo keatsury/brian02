@@ -1,4 +1,9 @@
 body{
-    background: linear-gradient(to top, #ff0000, #00ff00, #0000ff);
-    background-repeat: no-repeat;
+    background: rgb(29,0,154);
+background: linear-gradient(90deg, rgba(29,0,154,1) 0%, rgba(139,0,214,1) 26%,
+ rgba(113,58,190,1) 47%, rgba(157,118,193,1) 69%, rgba(247,207,207,1) 100%);
+}
+
+.avatar{
+    min-height: 10%;
 }
